@@ -46,9 +46,9 @@ python split_dataset.py
 ```
 
 This creates `data/split_42.npz` with:
-- Train: 104,664 molecules (80%)
-- Val: 13,083 molecules (10%)
-- Test: 13,084 molecules (10%)
+- Train: 110,831 molecules
+- Val: 11,000 molecules
+- Test: 11,000 molecules
 - Random seed: 42
 
 ## Training
