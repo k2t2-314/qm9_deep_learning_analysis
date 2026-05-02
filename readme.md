@@ -22,7 +22,6 @@ For other additional contribution including Latent-space analysis, Capacity abla
 | GCN + Distance | 0.1449 | 0.1444 |
 | SchNet | 0.0682 | 0.0681 |
 | DimeNet++ | 0.0484 | 0.0487 |
-| SOTA | < 0.050 | < 0.050 |
 
 ## Requirements
 
