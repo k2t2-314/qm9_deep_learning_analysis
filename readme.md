@@ -11,6 +11,9 @@ the HOMO-LUMO energy gap on the QM9 molecular dataset.
 - **SchNet**: Continuous-filter convolutional network using interatomic distances
 - **DimeNet++**: Directional message passing network using distances and bond angles
 
+## QM9 Molecular Property Prediction Contributions
+For other additional contribution including Latent-space analysis, Capacity ablation and Error analysis, please refer to the folder qm9_additional_contributions_code.
+
 ## Results
 
 | Model | Val MAE (eV) | Test MAE (eV) |
